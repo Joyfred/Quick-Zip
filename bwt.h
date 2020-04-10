@@ -1,0 +1,1 @@
+extern pair <char, string> code[size_c] ;
